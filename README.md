@@ -1,7 +1,5 @@
 # json2esp32
 
-json2esp32
-
 Utility for converting JSON board definitions into ESP32-compatible C/C++ board support code.
 
 Overview
